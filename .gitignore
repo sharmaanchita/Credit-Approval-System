@@ -1,0 +1,22 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Django
+*.log
+*.sqlite3
+db.sqlite3
+media
+staticfiles
+*.pot
+*.pyc
+*.pyo
+*.pyd
+
+# IDEs
+.vscode/
+
+# MacOS
+.DS_Store
